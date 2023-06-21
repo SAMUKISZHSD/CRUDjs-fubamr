@@ -1,5 +1,5 @@
 # CRUDjs-fubamr
-Realizei um crud responsivo de um sistema de cadastro de funcionários, tendo como funcionalidade de adicionar:
+**Realizei um crud responsivo de um sistema de cadastro de funcionários, tendo como funcionalidade de adicionar:**
 - Nome
 - Função
 - Salário
