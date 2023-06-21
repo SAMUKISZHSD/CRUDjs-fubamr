@@ -1,13 +1,14 @@
 # CRUDjs-fubamr
 **Realizei um crud responsivo de um sistema de cadastro de funcionários, tendo como funcionalidades de adicionar:**
-# VEJA MEU PROJETO: https://samukiszhsd.github.io/CRUDjs-fubamr/
+- VEJA MEU PROJETO: https://samukiszhsd.github.io/CRUDjs-fubamr/
 - Nome
 - Função
 - Salário
 - Rg
 - Cpf
 - Data de nascimento
-  
+----------------------------------------------------------------------------------------------------------------------------------------
+** VEJA MEU PROJETO: https://samukiszhsd.github.io/CRUDjs-fubamr/**
 <div align="center">
 <img  src='https://github.com/SAMUKISZHSD/CRUDjs-fubamr/blob/main/Captura%20da%20Web_21-6-2023_153324_samukiszhsd.github.io.jpeg'/>
 <img  src='https://github.com/SAMUKISZHSD/CRUDjs-fubamr/blob/main/Captura%20da%20Web_21-6-2023_153343_samukiszhsd.github.io.jpeg'/>
