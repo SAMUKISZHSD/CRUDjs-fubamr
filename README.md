@@ -8,8 +8,8 @@
 - Data de nascimento
   
 <div align="center">
-<img  src='Captura da Web_14-6-2023_231956_samukiszhsd.github.io.jpeg'/>
-<img  src='Captura da Web_14-6-2023_231956_samukiszhsd.github.io.jpeg'/>
+<img  src='https://github.com/SAMUKISZHSD/CRUDjs-fubamr/blob/main/Captura%20da%20Web_21-6-2023_153324_samukiszhsd.github.io.jpeg'/>
+<img  src='https://github.com/SAMUKISZHSD/CRUDjs-fubamr/blob/main/Captura%20da%20Web_21-6-2023_153343_samukiszhsd.github.io.jpeg'/>
 </div>
 
  **Tecnologias utilizadas:**<br><br>
