@@ -9,6 +9,7 @@
   
 <div align="center">
 <img  src='Captura da Web_14-6-2023_231956_samukiszhsd.github.io.jpeg'/>
+<img  src='Captura da Web_14-6-2023_231956_samukiszhsd.github.io.jpeg'/>
 </div>
 
  **Tecnologias utilizadas:**<br><br>
